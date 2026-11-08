@@ -4,7 +4,7 @@
 #  地址：https://cdn.jsdelivr.net/gh/wangkela/jinmuyan@main/offsets.txt
 # ================================================================
 # 总开关，1为开启，0为关闭
-app_enabled=0
+app_enabled=1
 version=20261107
 panel_version=20.0
 
