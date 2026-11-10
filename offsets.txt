@@ -6,7 +6,7 @@
 # 总开关，1为开启，0为关闭
 app_enabled=1
 version=20261110
-panel_version=20.0
+panel_version=21.0
 
 # ================================================================
 #  【地址偏移】server0=国服 server1=国际服 server2=台服
@@ -23,9 +23,9 @@ server0.skill_range_off=0x9951CC8
 server0.luna_esp_off=0xAB5EB0C
 server0.verify=0x430
 
-server1.laser_head=0x1FD48314
-server1.laser_chest=0x1FD48304
-server1.laser_leg=0x1FD48310
+server1.laser_head=0x1FC64F24
+server1.laser_chest=0x1FC64F14
+server1.laser_leg=0x1FC64F20
 server1.aim_point=0xBBDB71C
 server1.aimbot0=0x9C811F4
 server1.aimbot1=0x9C81238
@@ -35,9 +35,9 @@ server1.skill_range_off=0x9C83B6C
 server1.luna_esp_off=0xAE85DC0
 server1.verify=0xA8
 
-server2.laser_head=0x1FBC9594
-server2.laser_chest=0x1FBC9584
-server2.laser_leg=0x1FBC9590
+server2.laser_head=0x1FAE8A84
+server2.laser_chest=0x1FAE8A74
+server2.laser_leg=0x1FAE8A80
 server2.aim_point=0xBE1985C
 server2.aimbot0=0x9B8B1F8
 server2.aimbot1=0x9B8B23C
@@ -79,7 +79,7 @@ value.off.aimbot.aimbot2=9.21479202e-21
 value.off.aimbot.aimbot3=9.21479202e-21
 
 # ---------- 技能范围 ----------
-value.on.skill_range.skill_range=-0.04700946808
+value.on.skill_range.skill_range=0.1
 value.off.skill_range.skill_range=-0.04694461823
 
 # ---------- 全枪聚点 ----------
