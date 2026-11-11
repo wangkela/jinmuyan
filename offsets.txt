@@ -5,7 +5,7 @@
 # ================================================================
 # 总开关，1为开启，0为关闭
 app_enabled=1
-version=20261110
+version=20261111
 panel_version=21.0
 
 # ================================================================
@@ -38,7 +38,7 @@ server1.verify=0xA8
 server2.laser_head=0x1FAE8A84
 server2.laser_chest=0x1FAE8A74
 server2.laser_leg=0x1FAE8A80
-server2.aim_point=0xBE1985C
+server2.aim_point=0xBB01EB8
 server2.aimbot0=0x9B8B1F8
 server2.aimbot1=0x9B8B23C
 server2.aimbot2=0xBA739F8
@@ -65,8 +65,8 @@ value.on.luna_esp.luna_esp@2=-9.01087389e12
 
 # ---------- 露娜透视：关闭值三服独立 ----------
 value.off.luna_esp.luna_esp@0=-1.19237598e-7
-value.off.luna_esp.luna_esp@1=-5.07496378e-10
-value.off.luna_esp.luna_esp@2=-1.72644921e29
+value.off.luna_esp.luna_esp@1=-1.19237598e-7
+value.off.luna_esp.luna_esp@2=-1.19237598e-7
 
 # ---------- 自瞄 ----------
 value.on.aimbot.aimbot0=-9.01087389e12
